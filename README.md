@@ -6,15 +6,15 @@ This project was created with the help of AI, with the goal of providing an easy
 - pycairo 1.27.0 
 - psutil 7.0.0
 
-Install dependences
+Install dependences:
 
 Debia/Ubuntu:
 
-sudo apt update && sudo apt install -y python3-psutil python3-gi python3-gi-cairo python3-cairo
+- sudo apt update && sudo apt install -y python3-psutil python3-gi python3-gi-cairo python3-cairo
 
 Arch:
 
-sudo pacman -Syu --needed python-psutil python-gobject python-cairo
+- sudo pacman -Syu --needed python-psutil python-gobject python-cairo
 
 
 
