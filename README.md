@@ -10,11 +10,11 @@ Install dependences
 
 Debia/Ubuntu
 
-sudo apt update && sudo apt install -y python3-psutil python3-gi python3-gi-cairo python3-cairo
+  sudo apt update && sudo apt install -y python3-psutil python3-gi python3-gi-cairo python3-cairo
 
 Arch
 
-sudo pacman -Syu --needed python-psutil python-gobject python-cairo
+  sudo pacman -Syu --needed python-psutil python-gobject python-cairo
 
 
 this program is only for XFCE
